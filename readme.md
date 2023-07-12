@@ -65,7 +65,7 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 <td>Indian-Start-up-Funding-Analysis</td>
 <td>This repositiory seeks to document the process I undertook to analyze fundings received by Indian Start-ups from 2018 to 2021.
 The project aims to draw insights on funding received by Indian startups and obtain a descriptive overview and a relationship pattern of funding and growth of newly launched startups.</td>
-<td>< a href ='https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis.git'> GitHub Repo</td>
+<td><a href ='https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis.git'> GitHub Repo </td>
 </tr>
 
 <tr>
@@ -90,9 +90,7 @@ Specifically, I built a model that more accurately predicts the unit sales for t
 <td>Embedding-a-Machine-Learning-Model-Into-A-GUI-using-STREAMLIT</td>
 <td>In this repository I demonstarate how to embed a Sales Prediction Regression Machine Learning model into a webapp using Streamlit to make sales predictions </td>
 <td><a href = 'https://medium.com/@botchwaykojo/streamlit-unleashing-your-inner-web-developer-with-interactive-app-building-5ec82b2a1c02'> Medium Article  </td>
-<td><a href ='https://github.com/Gilbert-B/Embedding-a-Machine-Learning-Model-Into-A-GUI-using-STREAMLIT.git'> GitHub Repo </td>
-<td> </td>
-<td> </td>
+<td><a href = 'https://github.com/Gilbert-B/Embedding-a-Machine-Learning-Model-Into-A-GUI-using-STREAMLIT.git'> GitHub Repo </td>
 <td> </td>
 </tr>
 
@@ -111,7 +109,7 @@ Specifically, I built a model that more accurately predicts the unit sales for t
 <td>In this project, I fine-tuned a pre-trained Deep Learning models from HuggingFace on a new dataset to adapt the models to predict the sentiments expressed in a Tweet (e.g: neutral, positive, negative). I then created an app to use the models and deploy the app on the HuggingFace platform. </td>
 <td><a href= 'https://medium.com/@botchwaykojo/unleashing-sentiment-secrets-building-an-electrifying-sentiment-analysis-app-with-streamlit-and-edad77bdf1ce'> Medium Article  </td>
 <td>< a href ='https://github.com/Gilbert-B/Natural-Language-Processing-Sentiment-Analysis-.git'> GitHub Repo </td>
-<td><a href= https://huggingface.co/spaces/GhylB/Sentiment_App'>Deployed App </td>
+<td><a href= 'https://huggingface.co/spaces/GhylB/Sentiment_App'> Deployed App </td>
 <td> </td>
 <td> </td>
 </tr>
