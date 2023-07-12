@@ -62,20 +62,18 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
-<td>#</td>
 <td>Indian-Start-up-Funding-Analysis</td>
 <td>This repositiory seeks to document the process I undertook to analyze fundings received by Indian Start-ups from 2018 to 2021.
 The project aims to draw insights on funding received by Indian startups and obtain a descriptive overview and a relationship pattern of funding and growth of newly launched startups.</td>
-<td>< a href =@https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis.git'>GitHub Repo</td>
+<td>< a href ='https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis.git'> GitHub Repo</td>
 </tr>
 
 <tr>
-<td>1</td>
 <td>Regression-Project  </td>
 <td>In this project, I will document the stages I went through to predict store sales on data from Corporation Favorita, a large Ecuadorian-based grocery retailer.
 Specifically, I built a model that more accurately predicts the unit sales for thousands of items sold at different Favorita store.</td>
 <td><a href = 'https://medium.com/@botchwaykojo/predicting-unit-sales-for-favorita-stores-using-machine-learning-b80b5722bf60)'>Medium Article</td>
-<td><a href= 'https://github.com/Gilbert-B/Regression-Project.git'>GitHub Repo </td>
+<td><a href= 'https://github.com/Gilbert-B/Regression-Project.git'> GitHub Repo </td>
 </tr>
 
 <tr>
