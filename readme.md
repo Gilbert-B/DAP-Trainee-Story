@@ -1,28 +1,26 @@
 # 📈🧪 Data Analytics Program 🧠📊 : Story of *Gilbert Botchway*
 Here is the place to tell the story of your experience of the Data Analytics Program.
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
-
 ## Let me introduce Myself
-`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
+`Before embarking on my data analytics journey, I gained experience in various roles. I started in the finance department at Rigworld International Services, ensuring accurate financial records and producing reports for management decision-making. I then transitioned to SAP consulting at Persol Systems Limited, implementing SAP Business One and providing support to clients. This diverse background provided me with a solid foundation in business processes and systems`
 
 ## How would I describe my experience in the data analytics program ? 
-`Please add text here...`
+`It has been a very educative experience so far.The program covered various modules including Python, Machine Learning etc. Through this program, I gained a solid foundation in data analytics concepts, tools, and techniques, allowing me to leverage SQL, Python, and advanced Excel for data analysis and visualization.Overall, the program equipped me with the skills and knowledge necessary to excel in the field of data analytic `
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-`Please add text here...`
+`The Career Accelerator phase of my data analytics journey has introduced me to a range of valuable skills and experiences. I have gained hands-on experience in leveraging Python for data extraction, manipulation, and analysis as well as Machine Learning.
 
 ## What enticed me to join the Data Analytics Program?
-`Please add text here...`
+`Recognizing the increasing demand for data analytics professionals in the job market, I saw the program as an opportunity to enhance my career prospects. By gaining expertise in data analytics, it could open doors to new and exciting job opportunities and potentially secure more challenging and rewarding roles.Azubi Africa was the best bet to gain that needed skills.'
 
 ## What would I say my progress in tech has been since joining the program ? 
-`Please add text here...`
+`To be honest my progress has been exponential.Even though there is soo much to learn, there is soo much i have learnt as well and that gives me alot of confidence`
 
 ## What are my plans for the future ?
-`Please add text here...`
+`I plan to continue learning and prepare myself for any new opportunity that may come my way`
 
 ## What is my dream company or role ?
-`Please add text here...`
+`My dream company is one that has work life balance and where i feel I am making an impact.`
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
@@ -149,51 +147,49 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
 
-    `Reply here please.`
+    `I'd say go for it. Be ready to work hard but know that it will be worth your while.`
 
 1. What did you think about the quality of teaching and level of assistance? 
 
-    `Reply here please.`
+    `Azubi provides excellent tuition and assistance`
 
 1. What did you like most about the program? 
 
-    `Reply here please.`
+    `The group projetcs was a nice way to to simulate real world working experience where you will actually work in groups. It conditions your mind on what to expect in the real world`
 
 1. Are the lectures engaging and interesting? 
 
-    `Reply here please.`
+    `Yes`
 
 1. What happens if you miss a lecture? 
 
-    `Reply here please.`
+    `I normally watch the recorded videos and ask a friend to give me a high end overview of what i missed`
 
 1. What do you think of the flexibility of the program? 
 
-    `Reply here please.`
+    `The program is quite flexible but it requires a little more dedication on the learners part.`
 
 1. Do the projects worked on help you test your ability / skills? 
 
-    `Reply here please.`
+    `Yes. most of the projects demanded extensive research on how to approach  and solve them`
 
 1. What will you change about the program if you had a chance? 
 
-    `Reply here please.`
+    `RAbsoloutely not. I think i would even take ut more serious than i did.`
 
 1. What do you think about the fees structure? 
 
-    `Reply here please.`
+    `It is reasonable. Considering there arent many like that in Ghana. Your mind is at rest knowing you have to oay only when you have secured a job`
 
 1. Would you say Azubi Has Changed your life ? 
 
-    `Reply here please.`
+    `Absolutely, even though i dont consider myself an expert, I have gained valuable skills from this program.`
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-    `Reply here please.`
+    `Yes, But there is always more room to upskill`
 
 
 ## My Contacts
-`Please add your contacts here...`
-
-**NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+`email: botchwaykojo@gmail
+LinkedIn : Gilbert Botchway`
