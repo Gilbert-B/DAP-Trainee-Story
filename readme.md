@@ -77,7 +77,7 @@ The project aims to draw insights on funding received by Indian startups and obt
 <td>Regression-Project  </td>
 <td>In this project, I will document the stages I went through to predict store sales on data from Corporation Favorita, a large Ecuadorian-based grocery retailer.
 Specifically, I built a model that more accurately predicts the unit sales for thousands of items sold at different Favorita store.</td>
-<td>[medium](https://medium.com/@botchwaykojo/predicting-unit-sales-for-favorita-stores-using-machine-learning-b80b5722bf60)</td>
+<td>href = 'https://medium.com/@botchwaykojo/predicting-unit-sales-for-favorita-stores-using-machine-learning-b80b5722bf60)'</td>
 <td>[Add the app repository link here...](https://github.com/Gilbert-B/Regression-Project.git)</td>
 <td>Add the development repository link here...</td>
 </tr>
