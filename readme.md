@@ -66,10 +66,7 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 <td>Indian-Start-up-Funding-Analysis</td>
 <td>This repositiory seeks to document the process I undertook to analyze fundings received by Indian Start-ups from 2018 to 2021.
 The project aims to draw insights on funding received by Indian startups and obtain a descriptive overview and a relationship pattern of funding and growth of newly launched startups.</td>
-<td>Article</td>
-<td>Deployed App</td>
-<td>App Repository</td>
-<td>Dev Repository</td>
+<td>< a href =@https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis.git'>GitHub Repo</td>
 </tr>
 
 <tr>
@@ -78,46 +75,45 @@ The project aims to draw insights on funding received by Indian startups and obt
 <td>In this project, I will document the stages I went through to predict store sales on data from Corporation Favorita, a large Ecuadorian-based grocery retailer.
 Specifically, I built a model that more accurately predicts the unit sales for thousands of items sold at different Favorita store.</td>
 <td><a href = 'https://medium.com/@botchwaykojo/predicting-unit-sales-for-favorita-stores-using-machine-learning-b80b5722bf60)'>Medium Article</td>
-<td>[Add the app repository link here...](https://github.com/Gilbert-B/Regression-Project.git)</td>
-<td>Add the development repository link here...</td>
+<td><a href= 'https://github.com/Gilbert-B/Regression-Project.git'>GitHub Repo </td>
 </tr>
 
 <tr>
-<td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Predicting Customer Churn</td>
+<td> This project is aimed at finding the likelihood of a customer leaving our target organization, the key indicators of the churn as well as the retention strategies that can be implemented to avert this problem.</td>
+<td><a href = 'https://medium.com/@botchwaykojo/classification-project-predicting-customer-churn-283f0f682791'> Medium Article </td>
+<td><a href = 'https://github.com/Gilbert-B/Predicting-Customer-Churn.git'> GitHub Repo </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
 
 <tr>
-<td>4</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Embedding-a-Machine-Learning-Model-Into-A-GUI-using-STREAMLIT</td>
+<td>In this repository I demonstarate how to embed a Sales Prediction Regression Machine Learning model into a webapp using Streamlit to make sales predictions </td>
+<td><a href = 'https://medium.com/@botchwaykojo/streamlit-unleashing-your-inner-web-developer-with-interactive-app-building-5ec82b2a1c02'> Medium Article  </td>
+<td><a href ='https://github.com/Gilbert-B/Embedding-a-Machine-Learning-Model-Into-A-GUI-using-STREAMLIT.git'> GitHub Repo </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
 
 <tr>
-<td>5</td>
+<td>Embedding-a-Machine-Learning-Model-Into-A-GUI using GRADIO</td>
+<td>In this project, I embeded a ML model into a web app to interact with it much easier, by inputing the required information, making predictions and showing the result. This web application was built with Python and Gradio. It predicts whether or not a customer will churn based on tenure, monthly charges, and total charges among others inputs. It uses a trained machine learning model built with scikit-learn to make the predictions. </td>
+<td><a href ='https://medium.com/@botchwaykojo/rev-up-your-business-say-goodbye-to-churn-and-hello-to-success-with-gradios-prediction-app-d3e66365a113'> Medium Article  </td>
+<td>< a href ='https://github.com/Gilbert-B/Embedding-a-Machine-Learning-Model-Into-A-GUI-using-GRADIO.git'> GitHub Repo </td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
+</tr>
+
+<tr>
+<td>Natural-Language-Processing-Sentiment-Analysis</td>
+<td>In this project, I fine-tuned a pre-trained Deep Learning models from HuggingFace on a new dataset to adapt the models to predict the sentiments expressed in a Tweet (e.g: neutral, positive, negative). I then created an app to use the models and deploy the app on the HuggingFace platform. </td>
+<td><a href= 'https://medium.com/@botchwaykojo/unleashing-sentiment-secrets-building-an-electrifying-sentiment-analysis-app-with-streamlit-and-edad77bdf1ce'> Medium Article  </td>
+<td>< a href ='https://github.com/Gilbert-B/Natural-Language-Processing-Sentiment-Analysis-.git'> GitHub Repo </td>
+<td><a href= https://huggingface.co/spaces/GhylB/Sentiment_App'>Deployed App </td>
 <td> </td>
 <td> </td>
 </tr>
