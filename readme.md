@@ -164,4 +164,4 @@ Specifically, I built a model that more accurately predicts the unit sales for t
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbert-botchway/) 
 
-- Read more on my [medium](https://medium.com/@botchwaykojo/)`
+- [Medium](https://medium.com/@botchwaykojo/)`
