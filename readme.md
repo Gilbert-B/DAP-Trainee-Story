@@ -82,8 +82,7 @@ Specifically, I built a model that more accurately predicts the unit sales for t
 <td><a href = 'https://medium.com/@botchwaykojo/classification-project-predicting-customer-churn-283f0f682791'> Medium Article </a></td>
 <td><a href = 'https://github.com/Gilbert-B/Predicting-Customer-Churn.git'> GitHub Repo </a></td>
 <td> </td>
-<td> </td>
-<td> </td>
+
 </tr>
 
 <tr>
@@ -100,8 +99,6 @@ Specifically, I built a model that more accurately predicts the unit sales for t
 <td><a href ='https://medium.com/@botchwaykojo/rev-up-your-business-say-goodbye-to-churn-and-hello-to-success-with-gradios-prediction-app-d3e66365a113'> Medium Article  </a></td>
 <td><a href ='https://github.com/Gilbert-B/Embedding-a-Machine-Learning-Model-Into-A-GUI-using-GRADIO.git'> GitHub Repo </a></td>
 <td> </td>
-<td> </td>
-<td> </td>
 </tr>
 
 <tr>
@@ -110,29 +107,8 @@ Specifically, I built a model that more accurately predicts the unit sales for t
 <td><a href= 'https://medium.com/@botchwaykojo/unleashing-sentiment-secrets-building-an-electrifying-sentiment-analysis-app-with-streamlit-and-edad77bdf1ce'> Medium Article  </a></td>
 <td><a href ='https://github.com/Gilbert-B/Natural-Language-Processing-Sentiment-Analysis-.git'> GitHub Repo </a></td>
 <td><a href= 'https://huggingface.co/spaces/GhylB/Sentiment_App'> Deployed App </a></td>
-<td> </td>
-<td> </td>
 </tr>
 
-<tr>
-<td>6</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr>
-<td>Capstsone</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
 
 </tbody>
 </table>
