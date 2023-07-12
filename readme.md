@@ -98,7 +98,7 @@ Specifically, I built a model that more accurately predicts the unit sales for t
 <td>Embedding-a-Machine-Learning-Model-Into-A-GUI using GRADIO</td>
 <td>In this project, I embeded a ML model into a web app to interact with it much easier, by inputing the required information, making predictions and showing the result. This web application was built with Python and Gradio. It predicts whether or not a customer will churn based on tenure, monthly charges, and total charges among others inputs. It uses a trained machine learning model built with scikit-learn to make the predictions. </td>
 <td><a href ='https://medium.com/@botchwaykojo/rev-up-your-business-say-goodbye-to-churn-and-hello-to-success-with-gradios-prediction-app-d3e66365a113'> Medium Article  </a></td>
-<td>< a href ='https://github.com/Gilbert-B/Embedding-a-Machine-Learning-Model-Into-A-GUI-using-GRADIO.git'> GitHub Repo </a></td>
+<td><a href ='https://github.com/Gilbert-B/Embedding-a-Machine-Learning-Model-Into-A-GUI-using-GRADIO.git'> GitHub Repo </a></td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -108,8 +108,8 @@ Specifically, I built a model that more accurately predicts the unit sales for t
 <td>Natural-Language-Processing-Sentiment-Analysis</td>
 <td>In this project, I fine-tuned a pre-trained Deep Learning models from HuggingFace on a new dataset to adapt the models to predict the sentiments expressed in a Tweet (e.g: neutral, positive, negative). I then created an app to use the models and deploy the app on the HuggingFace platform. </td>
 <td><a href= 'https://medium.com/@botchwaykojo/unleashing-sentiment-secrets-building-an-electrifying-sentiment-analysis-app-with-streamlit-and-edad77bdf1ce'> Medium Article  </a></td>
-<td>< a href ='https://github.com/Gilbert-B/Natural-Language-Processing-Sentiment-Analysis-.git'> GitHub Repo </a></td>
-<td>< a href= 'https://huggingface.co/spaces/GhylB/Sentiment_App'> Deployed App </a></td>
+<td><a href ='https://github.com/Gilbert-B/Natural-Language-Processing-Sentiment-Analysis-.git'> GitHub Repo </a></td>
+<td><a href= 'https://huggingface.co/spaces/GhylB/Sentiment_App'> Deployed App </a></td>
 <td> </td>
 <td> </td>
 </tr>
