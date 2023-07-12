@@ -8,10 +8,10 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 `It has been a very educative experience so far.The program covered various modules including Python, Machine Learning etc. Through this program, I gained a solid foundation in data analytics concepts, tools, and techniques, allowing me to leverage SQL, Python, and advanced Excel for data analysis and visualization.Overall, the program equipped me with the skills and knowledge necessary to excel in the field of data analytic `
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-`The Career Accelerator phase of my data analytics journey has introduced me to a range of valuable skills and experiences. I have gained hands-on experience in leveraging Python for data extraction, manipulation, and analysis as well as Machine Learning.
+`The Career Accelerator phase of my data analytics journey has introduced me to a range of valuable skills and experiences. I have gained hands-on experience in leveraging Python for data extraction, manipulation, and analysis as well as Machine Learning. I have also gained softskills which is one of the most important indicators of success in the workplace`
 
 ## What enticed me to join the Data Analytics Program?
-`Recognizing the increasing demand for data analytics professionals in the job market, I saw the program as an opportunity to enhance my career prospects. By gaining expertise in data analytics, it could open doors to new and exciting job opportunities and potentially secure more challenging and rewarding roles.Azubi Africa was the best bet to gain that needed skills.'
+`Recognizing the increasing demand for data analytics professionals in the job market, I saw the program as an opportunity to enhance my career prospects. By gaining expertise in data analytics, it could open doors to new and exciting job opportunities and potentially secure more challenging and rewarding roles.Azubi Africa was the best bet to gain that needed skills`
 
 ## What would I say my progress in tech has been since joining the program ? 
 `To be honest my progress has been exponential.Even though there is soo much to learn, there is soo much i have learnt as well and that gives me alot of confidence`
