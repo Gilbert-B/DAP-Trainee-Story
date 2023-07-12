@@ -65,7 +65,6 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 <td>#</td>
 <td>Indian-Start-up-Funding-Analysis</td>
 <td>This repositiory seeks to document the process I undertook to analyze fundings received by Indian Start-ups from 2018 to 2021.
-
 The project aims to draw insights on funding received by Indian startups and obtain a descriptive overview and a relationship pattern of funding and growth of newly launched startups.</td>
 <td>Article</td>
 <td>Deployed App</td>
@@ -77,7 +76,6 @@ The project aims to draw insights on funding received by Indian startups and obt
 <td>1</td>
 <td>Regression-Project  </td>
 <td>In this project, I will document the stages I went through to predict store sales on data from Corporation Favorita, a large Ecuadorian-based grocery retailer.
-
 Specifically, I built a model that more accurately predicts the unit sales for thousands of items sold at different Favorita store.</td>
 <td>[medium](https://medium.com/@botchwaykojo/predicting-unit-sales-for-favorita-stores-using-machine-learning-b80b5722bf60)</td>
 <td>[Add the app repository link here...](https://github.com/Gilbert-B/Regression-Project.git)</td>
